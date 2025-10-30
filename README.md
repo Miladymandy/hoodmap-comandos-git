@@ -14,6 +14,7 @@ Este primeiro mapa traz um resumo dos principais **comandos do Git**, organizado
 - 🧹 Desfazer alterações
 
 ### 📖 Visualize o mapa
+[Visualize o mapa](imagens/comandos-git.png)
 
 ### 💬 Sobre o projeto
 
@@ -21,3 +22,4 @@ A ideia dos **hoodmaps** é transformar o estudo de programação em algo mais v
 Cada mapa é feito com cuidado e design suave — perfeito para quem gosta de **estudar com organização e um toque criativo** ✨  
 
 Se quiser contribuir, sugerindo novos temas ou melhorias, fique à vontade para abrir uma *issue*.
+
